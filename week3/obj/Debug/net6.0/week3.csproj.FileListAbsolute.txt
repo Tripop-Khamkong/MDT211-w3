@@ -1,0 +1,15 @@
+E:\MDT211\week3\bin\Debug\net6.0\week3.exe
+E:\MDT211\week3\bin\Debug\net6.0\week3.deps.json
+E:\MDT211\week3\bin\Debug\net6.0\week3.runtimeconfig.json
+E:\MDT211\week3\bin\Debug\net6.0\week3.dll
+E:\MDT211\week3\bin\Debug\net6.0\week3.pdb
+E:\MDT211\week3\obj\Debug\net6.0\week3.csproj.AssemblyReference.cache
+E:\MDT211\week3\obj\Debug\net6.0\week3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\week3\obj\Debug\net6.0\week3.AssemblyInfoInputs.cache
+E:\MDT211\week3\obj\Debug\net6.0\week3.AssemblyInfo.cs
+E:\MDT211\week3\obj\Debug\net6.0\week3.csproj.CoreCompileInputs.cache
+E:\MDT211\week3\obj\Debug\net6.0\week3.dll
+E:\MDT211\week3\obj\Debug\net6.0\refint\week3.dll
+E:\MDT211\week3\obj\Debug\net6.0\week3.pdb
+E:\MDT211\week3\obj\Debug\net6.0\week3.genruntimeconfig.cache
+E:\MDT211\week3\obj\Debug\net6.0\ref\week3.dll
